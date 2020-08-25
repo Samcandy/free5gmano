@@ -18,8 +18,11 @@ This project is collaborating with [free5GC.org](https://free5gc.org). Hence, it
 
 Currently, the major contributors of this project are Department of Computer Science and Information Engineering (Dept. of CSIE) and Center of Infomormation Technology Innovation Services (CITIS), National Taichung University of Science and Technology (NTCUST)
 
-Note:
+Note 1:
 Thank you very much for your interest in free5gmano. The license of Stage 2 free5gmano follows [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0). That is, anyone can use free5gmano for commercial purposes for free. We will not charge any license fee.
+
+Note 2:
+Currently free5gmano v1.0.0 fault management only supports Kube5GNfvo, other plugins do not support fault management.
 
 This project is initiated by:
 [![](https://i.imgur.com/7HU6PZu.png)](https://www.moea.gov.tw/)[![](https://i.imgur.com/kNImVoF.png)](https://www.edu.tw/)
